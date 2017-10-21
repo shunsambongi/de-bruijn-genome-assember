@@ -1,0 +1,108 @@
+Sun Oct 23 03:07:47 2016
+ ./velveth output 33 ../input/real.error.large.fasta
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Sun Oct 23 03:09:55 2016
+ ./velveth output 33 ../input/real.error.large.fasta
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Sun Oct 23 03:11:42 2016
+ ./velvetg output -cov_cutoff 4 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 59 nodes and n50 of 1487, max 3907, total 23226, using 0/4675 reads
+Sun Oct 23 03:12:11 2016
+ ./velvetg output -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 276 nodes and n50 of 423, max 2072, total 26845, using 0/4675 reads
+Sun Oct 23 03:16:02 2016
+ ./velvetg output -cov_cutoff 5 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 56 nodes and n50 of 1487, max 3907, total 22779, using 0/4675 reads
+Sun Oct 23 03:16:16 2016
+ ./velvetg output -cov_cutoff 3 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 63 nodes and n50 of 1454, max 3907, total 23493, using 0/4675 reads
+Sun Oct 23 03:16:28 2016
+ ./velvetg output -cov_cutoff 2 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 79 nodes and n50 of 1358, max 3907, total 23860, using 0/4675 reads
+Sun Oct 23 03:16:39 2016
+ ./velvetg output -cov_cutoff 6 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 53 nodes and n50 of 1629, max 3907, total 21873, using 0/4675 reads
+Sun Oct 23 03:16:51 2016
+ ./velvetg output -cov_cutoff 7 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 37 nodes and n50 of 1563, max 3907, total 20230, using 0/4675 reads
+Sun Oct 23 03:16:58 2016
+ ./velvetg output -cov_cutoff 6 -min_contig_lgth 100
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 35
+
+Final graph has 53 nodes and n50 of 1629, max 3907, total 21873, using 0/4675 reads

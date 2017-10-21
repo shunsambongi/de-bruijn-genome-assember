@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    SHUN-dBGA  SPAdes
+# contigs (>= 0 bp)         137        14    
+# contigs (>= 1000 bp)      8          9     
+# contigs (>= 5000 bp)      0          0     
+# contigs (>= 10000 bp)     0          0     
+# contigs (>= 25000 bp)     0          0     
+# contigs (>= 50000 bp)     0          0     
+Total length (>= 0 bp)      26755      24356 
+Total length (>= 1000 bp)   11102      22504 
+Total length (>= 5000 bp)   0          0     
+Total length (>= 10000 bp)  0          0     
+Total length (>= 25000 bp)  0          0     
+Total length (>= 50000 bp)  0          0     
+# contigs                   15         10    
+Largest contig              2447       4239  
+Total length                15974      23098 
+GC (%)                      60.86      60.29 
+N50                         1145       3891  
+N75                         781        1720  
+L50                         6          3     
+L75                         10         6     
+# N's per 100 kbp           0.00       0.00  

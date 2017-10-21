@@ -1,0 +1,22 @@
+Assembly	SHUN-dBGA	SPAdes	Velvet
+# contigs (>= 0 bp)	137	14	27
+# contigs (>= 1000 bp)	8	9	8
+# contigs (>= 5000 bp)	0	0	0
+# contigs (>= 10000 bp)	0	0	0
+# contigs (>= 25000 bp)	0	0	0
+# contigs (>= 50000 bp)	0	0	0
+Total length (>= 0 bp)	26755	24356	22381
+Total length (>= 1000 bp)	11102	22504	16979
+Total length (>= 5000 bp)	0	0	0
+Total length (>= 10000 bp)	0	0	0
+Total length (>= 25000 bp)	0	0	0
+Total length (>= 50000 bp)	0	0	0
+# contigs	15	10	11
+Largest contig	2447	4239	3939
+Total length	15974	23098	18752
+GC (%)	60.86	60.29	60.68
+N50	1145	3891	2289
+N75	781	1720	1486
+L50	6	3	3
+L75	10	6	6
+# N's per 100 kbp	0.00	0.00	0.00

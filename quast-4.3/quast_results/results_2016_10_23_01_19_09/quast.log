@@ -1,0 +1,66 @@
+/Users/shunsambongi/Desktop/quast-4.3/quast.py input_files/SHUN-dBGA.fasta input_files/SPAdes.fasta
+
+Version: 4.3, 87c74f5
+
+System information:
+  OS: Darwin-16.0.0-x86_64-i386-64bit (macosx)
+  Python version: 2.7.11
+  CPUs number: 8
+
+Started: 2016-10-23 01:19:09
+
+Logging to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/quast.log
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /Users/shunsambongi/Desktop/quast-4.3
+Main parameters: 
+  Threads: 2, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  input_files/SHUN-dBGA.fasta ==> SHUN-dBGA
+  2  input_files/SPAdes.fasta ==> SPAdes
+
+2016-10-23 01:19:12
+Running Basic statistics processor...
+  Contig files: 
+    1  SHUN-dBGA
+    2  SPAdes
+  Calculating N50 and L50...
+    1  SHUN-dBGA, N50 = 1145, L50 = 6, Total length = 15974, GC % = 60.86, # N's per 100 kbp =  0.00
+    2  SPAdes, N50 = 3891, L50 = 3, Total length = 23098, GC % = 60.29, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/basic_stats/GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/basic_stats/coverage_histogram.pdf
+  Drawing SPAdes coverage histogram (bin size: 1x)...
+    saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/basic_stats/SPAdes_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-10-23 01:19:13
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2016-10-23 01:19:13
+RESULTS:
+  Text versions of total report are saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/report.html
+  PDF version (tables and plots) is saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/report.pdf
+  Icarus (contig browser) is saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/icarus.html
+  Log saved to /Users/shunsambongi/Desktop/quast-4.3/quast_results/results_2016_10_23_01_19_09/quast.log
+
+Finished: 2016-10-23 01:19:13
+Elapsed time: 0:00:03.892043
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

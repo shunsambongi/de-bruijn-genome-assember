@@ -1,0 +1,4 @@
+Assembly	# contigs (>= 0 bp)	# contigs (>= 1000 bp)	# contigs (>= 5000 bp)	# contigs (>= 10000 bp)	# contigs (>= 25000 bp)	# contigs (>= 50000 bp)	Total length (>= 0 bp)	Total length (>= 1000 bp)	Total length (>= 5000 bp)	Total length (>= 10000 bp)	Total length (>= 25000 bp)	Total length (>= 50000 bp)	# contigs	Largest contig	Total length	GC (%)	N50	N75	L50	L75	# N's per 100 kbp
+SHUN-dBGA	137	8	0	0	0	0	26755	11102	0	0	0	0	15	2447	15974	60.86	1145	781	6	10	0.00
+SPAdes	14	9	0	0	0	0	24356	22504	0	0	0	0	10	4239	23098	60.29	3891	1720	3	6	0.00
+Velvet	27	8	0	0	0	0	22381	16979	0	0	0	0	11	3939	18752	60.68	2289	1486	3	6	0.00

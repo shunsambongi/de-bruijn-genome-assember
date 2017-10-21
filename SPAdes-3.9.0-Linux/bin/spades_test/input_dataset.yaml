@@ -1,0 +1,4 @@
+- left reads: [/users/guest/s/ssam1993/Desktop/SPAdes-3.9.0-Linux/share/spades/test_dataset/ecoli_1K_1.fq.gz]
+  orientation: fr
+  right reads: [/users/guest/s/ssam1993/Desktop/SPAdes-3.9.0-Linux/share/spades/test_dataset/ecoli_1K_2.fq.gz]
+  type: paired-end
